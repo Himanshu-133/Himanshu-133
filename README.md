@@ -11,7 +11,7 @@ Welcome to my GitHub! I use this space to practice coding, build projects, and c
 
 - 🎯 Passionate about technology and problem solving  
 - 🌱 Currently learning Web Development & Programming  
-- 🤖 Using ChatGPT to learn faster and build smarter projects  
+- 🤖 Using GitHub to learn faster and build smarter projects  
 - 🔨 Focused on real-life useful applications  
 - 📈 Dream: Become a professional software developer  
 
