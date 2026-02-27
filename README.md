@@ -19,8 +19,8 @@ Welcome to my GitHub! I use this space to practice coding, build projects, and c
 
 ## 🛠 Skills & Tools
 
-- 🌐 HTML, CSS, JavaScript  
-- 🧠 Programming Basics  
+- 🌐 HTML, CSS, JavaScript , Php 
+- 🧠 Programming Intermediate
 - 🗂 Git & GitHub  
 - 📊 Project Building & Debugging  
 - 🤖 AI-assisted Development (ChatGPT)
