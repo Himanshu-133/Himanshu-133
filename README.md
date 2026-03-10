@@ -19,11 +19,11 @@ Welcome to my GitHub! I use this space to practice coding, build projects, and c
 
 ## 🛠 Skills & Tools
 
-- 🌐 HTML, CSS, JavaScript , Php 
-- 🧠 Programming Intermediate
+- 🌐 HTML, CSS, ,java, JavaScript , Php 
+- 🧠 Programming Level: Intermediate
 - 🗂 Git & GitHub  
 - 📊 Project Building & Debugging  
-- 🤖 AI-assisted Development (ChatGPT)
+- 🤖 AI-assisted Development
 
 ---
 
@@ -38,7 +38,7 @@ Welcome to my GitHub! I use this space to practice coding, build projects, and c
 
 ## 🎯 Goals for 2026
 
-✔ Become Full Stack Developer  
+✔ Become Full Stack Developer and a Software Developer
 ✔ Build 10+ solid projects  
 ✔ Contribute to open source  
 ✔ Land an internship/job  
