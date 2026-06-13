@@ -1,19 +1,18 @@
-
 # 👋 Hi, I'm Himanshu!
 
-💻 Aspiring Software Developer | 🚀 Learning Full Stack Development | 📊 Building Real-World Projects  
+I am a aspiring software developer currently learning full stack development, while building real world projects.  
 
-Welcome to my GitHub! I use this space to practice coding, build projects, and continuously improve my development skills.
+Welcome to my github! It is my space to practice coding, develop projects, and continuously learn to be a better developer.
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎯 Passionate about technology and problem solving  
-- 🌱 Currently learning Web Development & Programming  
-- 🤖 Using GitHub to learn faster and build smarter projects  
-- 🔨 Focused on real-life useful applications  
-- 📈 Dream: Become a professional software developer  
+- 📱 Enthusiastic with tech, problem solving  
+Working on a website allows me to learn web development and programming.I am working on a website to learn web development and programming.  
+Learn faster and smarter projects with GitHub!Learn faster with smarter projects by using GitHub!  
+- Practical, and applicable to real life useful applications  
+- 📈 Dream: Software Developer professional  
 
 ---
 
@@ -31,8 +30,8 @@ Welcome to my GitHub! I use this space to practice coding, build projects, and c
 
 - Improving JavaScript skills  
 - Learning backend concepts  
-- Building more real-world apps  
-- Writing cleaner, better code  
+- Designing and creating more practical applications  
+- Organizing data into a meaningful format  
 
 ---
 
@@ -40,7 +39,7 @@ Welcome to my GitHub! I use this space to practice coding, build projects, and c
 
 ✔ Become Full Stack Developer and a Software Developer
 ✔ Build 10+ solid projects  
-✔ Contribute to open source  
+Help others with open source projects.Participate in open source projects.  
 ✔ Land an internship/job  
 
 ---
